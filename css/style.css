@@ -1,0 +1,57 @@
+.title {
+    font-weight: 100;
+    font-size: 3em;
+    color: #fff;
+
+}
+
+h1 {
+    font-family: sans-serif;
+    font-weight: 100;
+    font-size: 3em;
+}
+
+.page1 {
+    height: 100vh;
+    background-color: lightgray;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.page2 {
+    height: 100vh;
+    background-color: #2C2C2C;
+    padding: 3em 0;
+}
+
+
+.counter {
+    margin-top: 1rem;
+    font-size: 2rem;
+    font-weight: 200;
+    text-align: center;
+    color: #fff;
+}
+
+
+.page3 {
+    height: 100vh;
+    background-color: lightgray;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+
+.block {
+    margin-top: 40vh;
+    width: 300px;
+    height: 100px;
+    background-color: lightblue;
+}
+
+#openingLottie{
+    height: 70vh;
+}
+
